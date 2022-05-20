@@ -1,4 +1,4 @@
 # ProjetoGastoCombustivelKT
 Projeto simples em kotlin 
 
-Para obter acesso ao código basta entrar em GastoDeViagem/App/Src/Main/Java/MainActivity
+o projeto visa calcular o gasto de combustível de uma viagem
